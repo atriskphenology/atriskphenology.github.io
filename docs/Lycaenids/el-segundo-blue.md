@@ -1,7 +1,7 @@
 ---
 title: El Segundo Blue
 id: el-segundo-blue
-sidebar_label: Edward's Hairstreak
+sidebar_label: El Seguno Blue
 previous_page: edwards-hairstreak
 next_page:  fenders-blue
 ---
