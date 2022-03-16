@@ -34,9 +34,3 @@ Deprecated
 ## Results
 
 <iframe height="600" width="100%" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"></iframe>
-
-## Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
