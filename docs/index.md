@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+---
+title: Home
+id: home
+description: "At risk butterflies: phenology and abundance in the United States"
+---
 
-You can use the [editor on GitHub](https://github.com/atriskphenology/atriskphenology.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Coming soon
+{: .label .label-yellow }
+We worked with butterfly researchers and naturalists across the United States to find datasets that allowed us to evalute the phenology, or the timing of flight periods, and abundance of butterflies that are of conservation concern.
 
-### Markdown
+Scientists have hypothesized that species that get earlier are declining and species that get later are increasing. Species with longer flight periods would be increasing and species with shorter flight periods would be decreasing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Methods and Definitions
 
-```markdown
-Syntax highlighted code block
+We contacted... looking for 10 years of surveys... ADD ME IN
 
-# Header 1
-## Header 2
-### Header 3
+Tag the species pages as we load them
 
-- Bulleted
-- List
+Stable
+{: .label .label-green }
 
-1. Numbered
-2. List
+New release
+{: .label .label-purple }
 
-**Bold** and _Italic_ and `Code` text
+Coming soon
+{: .label .label-yellow }
 
-[Link](url) and ![Image](src)
-```
+Deprecated
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+{: .label .label-red }
 
-### Jekyll Themes
+## Results
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atriskphenology/atriskphenology.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<iframe height="600" width="100%" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"></iframe>
 
-### Support or Contact
+## Code of Conduct
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Just the Docs is committed to fostering a welcoming community.
+
+[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.

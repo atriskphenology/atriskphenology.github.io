@@ -1,1 +1,61 @@
-theme: jekyll-theme-minimal
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+baseurl: /butterflies
+
+search_enabled: true
+auto_page_title: true
+
+title: At Risk Phenology
+
+sidebar:
+  - Home
+  - label: Nymphalids
+    children:
+      - appalachian-brown
+      - baltimore-checkerspot
+      - eyed-brown
+      - oregon-silverspot
+      - regal-fritillary
+      - st-francis-satyr
+      - taylors-checkerspot
+  - label: Lycaenids
+    children: 
+      - acadian-hairstreak
+      - bramble-hairstreak
+      - edwards-hairstreak
+      - el-segundo-blue
+      - fenders-blue
+      - frosted-elfin
+      - hermes-copper
+      - karner-blue
+      - mission-blue
+      - palos-verdes-blue
+  - label: Pierids
+    children:
+      - california-dogface
+      - falcate-orangetip
+      - west-virginia-white
+  - label: Hesperids
+    children:
+      - black-dash
+      - broad-winged-skipper
+      - dion-skipper
+      - dukes-skipper
+      - dusted-skipper
+      - laguna-mts-skipper
+      - leonards-skipper
+      - long-dash
+      - mardon-skipper
+      - wild-indigo-duskywing
+  - labels: Others
+    children:
+      - langes-metalmark
+  - Acknowledgements
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+
