@@ -46,7 +46,7 @@ sidebar:
       - long-dash
       - mardon-skipper
       - wild-indigo-duskywing
-  - labels: Others
+  - label: Others
     children:
       - langes-metalmark
   - Acknowledgements
