@@ -16,7 +16,21 @@ Scientists have hypothesized that species that get earlier are declining and spe
 
 We contacted... looking for 10 years of surveys... ADD ME IN
 
+Tag the species pages as we load them
+
+Stable
+{: .label .label-green }
+
+New release
+{: .label .label-purple }
+
+Coming soon
+{: .label .label-yellow }
+
+Deprecated
+
+{: .label .label-red }
 
 ## Results
 
-<iframe height="80%" width="100%" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"></iframe>
+<iframe height="600" width="100%" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"></iframe>
