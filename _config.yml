@@ -7,9 +7,7 @@ search_enabled: true
 auto_page_title: true
 
 sidebar:
-  - Home
-  #- label: Con Bio Lab
-  - label: Nymphalids
+    - label: Nymphalids
     children:
       - appalachian-brown
       - baltimore-checkerspot

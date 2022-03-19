@@ -1,4 +1,9 @@
 <div class="chrome:sidebar">
+  <div id="Conservation Biology Lab"
+  class="chrome:sidebar_item">
+  <a href="https://labs.wsu.edu/conservation-biology"> 
+  Conservation Biology Lab</a>
+  </div>
   {% for item in site.sidebar %}
     {% if item.children %}
       {% capture id %}sidebar_item:{{ item.label | strip | downcase | remove: "'" | remove: '"' | escape }}{% endcapture %}
