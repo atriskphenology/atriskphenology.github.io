@@ -7,7 +7,7 @@ auto_page_title: true
 title: At Risk Phenology
 
 sidebar:
-   - label: Nymphalids
+  - label: Nymphalids
     children:
       - appalachian-brown
       - baltimore-checkerspot

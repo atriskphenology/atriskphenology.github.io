@@ -7,7 +7,7 @@ search_enabled: true
 auto_page_title: true
 
 sidebar:
-    - label: Nymphalids
+  - label: Nymphalids
     children:
       - appalachian-brown
       - baltimore-checkerspot
