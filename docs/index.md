@@ -26,12 +26,12 @@ For analysis we formed separate smoothing splines for each site of each species,
 ## Results
 Overall we found that there are no correlations between phenological shifts and changes in abundance over time across these at-risk butterflies from five families and across 10 states. Many spring species are advancing at some of their sites, and many late summer species are delaying.
 
-<iframe height="400" width="100%" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"></iframe>
+<iframe height="400" width="450" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"> </iframe>
 
 We do not find that results are spatiallly correlated, with trends in species abundance or phenoloy being similar in closer locations.
 
-<iframe src="https://wsuniv.maps.arcgis.com/apps/instant/basic/index.html?appid=e3ccf346c38d47e6b901cded95474c77" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://wsuniv.maps.arcgis.com/apps/instant/basic/index.html?appid=e3ccf346c38d47e6b901cded95474c77" width="450" height="450" frameborder="0" style="border:0" allowfullscreen> </iframe>
 
 We also found that datasets that target specific species were much more able to contribute meaningful data, over datasets that survey many butterfly species, or community datasets. Our data do not cover many areas of the United States which may be strongly affected by climate change. For example, there are only a few species in higher elevation mountain sites. The lack of data we have for these areas is partially logistical, as surveys in some terrain is not accessible for people, but it is for butterflies.
 
-<iframe src="https://wsuniv.maps.arcgis.com/apps/instant/basic/index.html?appid=e3ccf346c38d47e6b901cded95474c77" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://wsuniv.maps.arcgis.com/apps/instant/basic/index.html?appid=e3ccf346c38d47e6b901cded95474c77" width="450" height="450" frameborder="0" style="border:0" allowfullscreen> </iframe>
