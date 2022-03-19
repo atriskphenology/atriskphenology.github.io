@@ -8,8 +8,7 @@ auto_page_title: true
 
 sidebar:
   - Home
-  - label: Con Bio Lab
-      link: "https://labs.wsu.edu/conservation-biology"
+  #- label: Con Bio Lab
   - label: Nymphalids
     children:
       - appalachian-brown
