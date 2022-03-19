@@ -1,5 +1,4 @@
 ---
-title: Home
 id: home
 description: "At risk butterflies: phenology and abundance in the United States"
 ---
