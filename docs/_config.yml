@@ -8,8 +8,7 @@ title: At Risk Phenology
 
 sidebar:
   - Home
-  - label: Con Bio Lab
-      link: "https://labs.wsu.edu/conservation-biology"
+  #- label: Con Bio Lab
   - label: Nymphalids
     children:
       - appalachian-brown
