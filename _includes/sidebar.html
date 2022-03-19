@@ -1,5 +1,10 @@
 <div class="chrome:sidebar">
-   {% for item in site.sidebar %}
+  <div class="chrome:sidebar_item">
+    <a href="https://labs.wsu.educonservation-biology" class="chrome:sidebar_item_text">
+      <span>Conservation Biology Lab</span>
+    </a>
+  </div>
+    {% for item in site.sidebar %}
     {% if item.children %}
       {% capture id %}sidebar_item:{{ item.label | strip | downcase | remove: "'" | remove: '"' | escape }}{% endcapture %}
       {% capture accordian_id %}{{ id }}:accordian{% endcapture %}
