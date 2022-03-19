@@ -4,10 +4,7 @@ id: el-segundo-blue
 sidebar_label: El Seguno Blue
 previous_page: edwards-hairstreak
 next_page:  fenders-blue
+layout: storymap
 ---
 
- 
-El segundo blue story map here insert!!
-
-Coming soon
-{: .label .label-yellow }
+<iframe src="https://storymaps.arcgis.com/stories/154aaf7200b243d19e749347effe52c6" width="100%" height="100%" frameborder="0" allowfullscreen allow="geolocation"></iframe>
