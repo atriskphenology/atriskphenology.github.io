@@ -1,8 +1,10 @@
 ---
+title: Project Summary
 id: home
 description: "At risk butterflies: phenology and abundance in the United States"
 layout: storymap
 ---
+<head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"></head>
 
 ## Introduction
 
