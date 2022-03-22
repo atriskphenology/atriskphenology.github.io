@@ -1,7 +1,7 @@
 ---
 title: Leonard's Skipper
 id: leonards-skipper
-sidebar_label: Laguna Mts Skipper
+sidebar_label: Leonard's Skipper
 previous_page: laguna-mts-skipper
 next_page: long-dash
 layout: storymap

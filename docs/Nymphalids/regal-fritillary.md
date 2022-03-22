@@ -1,7 +1,7 @@
 ---
 title: Regal Fritillary
 id: regal-fritillary
-sidebar_label: Oregon Silverspot
+sidebar_label: Regal Fritillary
 previous_page: oregon-silverspot
 next_page: st-francis-satyr
 layout: storymap
