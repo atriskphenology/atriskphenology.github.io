@@ -14,6 +14,8 @@
   {% if page.previous_page and page.next_page %}
   <div class="pagination_gap"></div>
   {% endif %}
+  <span class="chrome:sidebar_item_text"> Created with the zendesk garden theme. 
+    Copyright 2021 Zendesk Apache License, Version 2.0</span>
   {% if page.next_page %}
   <div class="pagination_item">
     {% assign meta = site.pages | where: "id", page.next_page | first %}
@@ -21,9 +23,7 @@
     <a href="{{ meta.url | relative_url }}" class="text-lg">
       {{ meta.sidebar_label | default: meta.title }} &rsaquo;</a>
    <br>
-    <span class="chrome:sidebar_item_text"> Created with the zendesk garden theme. 
-      Copyright 2021 Zendesk Licensed under the Apache License, Version 2.0 </span>
-    {% endif %}
+   {% endif %}
   </div>
   {% else %}
   <div class="pagination_gap"></div>
