@@ -19,8 +19,11 @@
     {% assign meta = site.pages | where: "id", page.next_page | first %}
     {% if meta %}
     <a href="{{ meta.url | relative_url }}" class="text-lg">
-      {{ meta.sidebar_label | default: meta.title }} &rsaquo;
-    </a>
+      {{ meta.sidebar_label | default: meta.title }} &rsaquo;</a>
+    <br>
+    <span class="chrome:sidebar_item_text"> Created with the zendesk garden theme. 
+      Copyright 2021 Zendesk Licensed under the Apache License, Version 2.0 </span>
+    <br>
     {% endif %}
   </div>
   {% else %}

@@ -4,7 +4,8 @@ id: home
 description: "At risk butterflies: phenology and abundance in the United States"
 layout: storymap
 ---
-<head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"></head>
+
+<img src="/assets/images/SERDP Multispecies Collage.png" alt="Species Collage of butterflies" width="100%">
 
 ## Introduction
 
@@ -28,7 +29,7 @@ For analysis we formed separate smoothing splines for each site of each species,
 ## Results
 Overall we found that there are no correlations between phenological shifts and changes in abundance over time across these at-risk butterflies from five families and across 10 states. Many spring species are advancing at some of their sites, and many late summer species are delaying.
 
-<iframe height="400" width="100%" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"></iframe>
+<iframe height="500" width="100%" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"> </iframe>
 
 We do not find that results are spatiallly correlated, with trends in species abundance or phenoloy being similar in closer locations.
 
