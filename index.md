@@ -5,7 +5,7 @@ description: "At risk butterflies: phenology and abundance in the United States"
 layout: storymap
 ---
 
-<img src="/assets/images/SERDP Multispecies Collage.png" alt="Species Collage of butterflies" width="100%">
+<img src="/assets/images/SERDP Multispecies Collage.png" alt="Species Collage of butterflies" width="90%">
 
 ## Introduction
 
@@ -36,5 +36,3 @@ We do not find that results are spatiallly correlated, with trends in species ab
 <iframe src="https://wsuniv.maps.arcgis.com/apps/instant/basic/index.html?appid=e3ccf346c38d47e6b901cded95474c77" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 We also found that datasets that target specific species were much more able to contribute meaningful data, over datasets that survey many butterfly species, or community datasets. Our data do not cover many areas of the United States which may be strongly affected by climate change. For example, there are only a few species in higher elevation mountain sites. The lack of data we have for these areas is partially logistical, as surveys in some terrain is not accessible for people, but it is for butterflies.
-
-<iframe src="https://wsuniv.maps.arcgis.com/apps/instant/basic/index.html?appid=4b285d47a70c43d6819b3208c8f89e1f" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

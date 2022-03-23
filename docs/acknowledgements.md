@@ -6,7 +6,7 @@ id: Acknowledgements
 We have many data contributors and collaborators to thank!
 
 ## SERDP Team
-Our research was funded by the Department of Defense through the Strategic Environmental Research and Development Program (SERDP, award #RC-2700). This project was lead by Dr. Elizabeth Crone, Dr. Cheryl Schultz, Dr. Diane Debinski, and Dr. Sonia Altizer.
+Our research was funded by the Department of Defense through the Strategic Environmental Research and Development Program (SERDP, award #RC-2700). This project was led by <a href="https://ase.tufts.edu/biology/labs/crone/">Dr. Elizabeth Crone</a>, <a href="https://labs.wsu.edu/conservation-biology">Dr. Cheryl Schultz </a>, <a href="https://www.montana.edu/ecology/diane_debinski/">Dr. Diane Debinski</a>, and <a href="https://www.altizerlab.org/">Dr. Sonia Altizer</a>.
 
 Many were involved in the project as a whole. The portion of the team working on this project is Collin Edwards, Chelsea Thomas, Christopher Jason, Kelsey King, and Kaitlyn Glover (is this all?).
 
