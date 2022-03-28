@@ -1,4 +1,9 @@
 <div class="chrome:sidebar">
+  <div class="chrome:siderbar_item">
+    <a href="https://atriskphenology.github.io">
+      <span class="chrome:sidebar_item_text">Home </span>
+    </a>
+  </div>
   <div class="chrome:sidebar_item">
     <a href="https://labs.wsu.edu/conservation-biology">
       <img src="/assets/images/logo.png" alt="Cons Bio Lab" height="35%" width="35%" class= "center"></img>
@@ -6,7 +11,7 @@
       
     </a>
   </div>
-    {% for item in site.sidebar %}
+  {% for item in site.sidebar %}
     {% if item.children %}
       {% capture id %}sidebar_item:{{ item.label | strip | downcase | remove: "'" | remove: '"' | escape }}{% endcapture %}
       {% capture accordian_id %}{{ id }}:accordian{% endcapture %}

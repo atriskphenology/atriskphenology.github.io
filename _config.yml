@@ -1,4 +1,4 @@
-title: At-risk Butterfly Phenology
+title: At-Risk Butterfly Phenology
 description: Research into the phenology and abundance of at-risk butterflies
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 permalink: pretty
@@ -10,7 +10,7 @@ sidebar:
   - label: Nymphalids
     children:
       - appalachian-brown
-      - baltimore-checkerspot
+      - baltimowre-checkerspot
       - eyed-brown
       - oregon-silverspot
       - regal-fritillary
