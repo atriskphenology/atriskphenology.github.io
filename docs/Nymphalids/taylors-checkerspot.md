@@ -3,6 +3,7 @@ title: Taylor's Checkerspot
 id: taylors-checkerspot
 sidebar_label: Taylor's Checkerspot
 previous_page: st-francis-satyr
+next_page: acadian-hairstreak
 layout: storymap
 ---
 

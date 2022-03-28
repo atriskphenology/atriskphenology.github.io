@@ -3,6 +3,7 @@ title: Palos Verdes Blue
 id: palos-verdes-blue
 sidebar_label: Palos Verdes Blue
 previous_page: mission-blue
+next_page: california-dogface
 layout: storymap
 ---
 

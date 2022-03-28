@@ -2,6 +2,7 @@
 title: Lange's metalmark
 id: langes-metalmark
 sidebar_label: Lange's metalmark
+previous_page: west-virginia-white
 layout: storymap
 ---
 

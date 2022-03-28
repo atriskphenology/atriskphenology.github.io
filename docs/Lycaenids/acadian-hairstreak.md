@@ -2,6 +2,7 @@
 title: Acadian Hairstreak
 id: acadian-hairstreak
 sidebar_label: Acadian Hairstreak
+previous_page: taylors-checkerspot
 next_page:  bramble-hairstreak
 layout: storymap
 ---
