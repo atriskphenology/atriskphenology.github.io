@@ -19,4 +19,4 @@ USFWS across the regions for our many listed butterflies, Travis Longcore, Danie
 
 ## Photo Credits
 
-Thanks to many individuals who have posted Creative Commons content for at-risk butterflies and their habitat. Special thanks to butterfly education projects: <a href= "https://butterfliesandmoths.org">BAMONA</a>, <a href= "https://alabama.butterflyatlas.usf.edu/">Alambama Butterfly Atlas</a>, <a href="http://www.raisingbutterflies.org/">Raising Butterflies.</a> Thanks to the following individuals for photo graphs: Erica Henry, Izzy Burr, June Arriens, Rachael Bonoan, Kelsey King, Kaitlyn Glover, David G. James, and more!
+Thanks to many individuals who have posted Creative Commons content for at-risk butterflies and their habitat. Special thanks to butterfly education projects: <a href= "https://butterfliesandmoths.org" ></a>BAMONA</a>, <a href= "https://alabama.butterflyatlas.usf.edu/">Alambama Butterfly Atlas</a>, <a href="http://www.raisingbutterflies.org/">Raising Butterflies.</a> Thanks to the following individuals for photo graphs: Erica Henry, Izzy Burr, June Arriens, Rachael Bonoan, Kelsey King, Kaitlyn Glover, David G. James, and more!
