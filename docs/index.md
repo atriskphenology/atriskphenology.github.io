@@ -29,7 +29,6 @@ Overall, for the at-risk butterfly species that we assessed, we found that no co
 
 However, we found strong associations between trends in abundance and habitat management. In general, increases in butterfly activity were associated with active management of the sites. The most frequently selected type of management was mowing management.  Over 40% of species-site combinations had some amount of mowing every year and 80% of sites had mowing at least once during the period for which we have butterfly monitoring data. About 2/3 of site-species combinations planted host or nectar plants during survey period. About 30% of site-species combinations used herbicides each year to control invasive species while only 40% of the sites used no chemicals in their management in any year. About 10% of the species-site combinations had some amount of fire management every year and about 70% of the sites used fire at least once during the survey period to manage butterfly habitat. The least selected management option of the ones we asked about was conservation grazing. In this case, fewer than 10% of the sites used conservation grazing at any time during the period during which we had survey data.
 
-<iframe height="500" width="100%" frameborder="no" src="https://kking.shinyapps.io/Multispecies/"> </iframe>
 
 We do not have analyses by spatial location to date, but you can view the general locations for sites in our map below.
 
