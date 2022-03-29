@@ -5,7 +5,7 @@ description: "At-risk butterflies: phenology and abundance in the United States"
 layout: storymap
 ---
 
-<img src="/assets/images/SERDP Multispecies Collage.png" alt="Species Collage of butterflies" width="90%" class="center">
+<img src="/assets/images/SERDP Multispecies Collage.png" alt="Species Collage of butterflies" width="90%">
 
 ## Introduction
 
