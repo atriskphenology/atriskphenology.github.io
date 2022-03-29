@@ -2,6 +2,7 @@
 <html>
   <head>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+    <link rel="shortcut icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon">
     <meta charset="utf-8" />
     <title>{{ page.title | default: site.title }}</title>
     <link
@@ -12,7 +13,6 @@
       rel="stylesheet"
       href="{{ '/assets/css/rouge.css' | relative_url }}"
     />
-    <link rel="shortcut icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon">
     <script src="{{ '/assets/js/accordian.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/heading_links.js' | relative_url }}"></script>
     {% if site.search_enabled %}
