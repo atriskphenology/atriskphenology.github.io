@@ -1,7 +1,7 @@
 ---
 title: Edward's Hairstreak
 id: edwards-hairstreak
-sidebar_label: Edward's Hairstreak
+sidebar_label: Edwards' Hairstreak
 previous_page: bramble-hairstreak
 next_page:  el-segundo-blue
 layout: storymap
