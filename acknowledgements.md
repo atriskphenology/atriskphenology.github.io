@@ -10,7 +10,7 @@ Our research was funded by the Department of Defense through the Strategic Envir
 
 Many were involved in the project as a whole. The portion of the team working on this project is Collin Edwards, Chelsea Thomas, Christopher Jason, Kelsey King, and Kaitlyn Glover (is this all?).
 
-<img src="/assets/images/AllOrgLogo.png" alt="Associated Organization Logos" height="240" width="425">
+<img src="/assets/images/AllOrgLogo.png" alt="Associated Organization Logos" height="240" width="425" class="center">
 
 ## Data Sources
 Many people were involved in the collection and storage of the data we use in this project. We have special thanks to the following individuals and organizations for the data used in these analyses and communication throughout the project.
