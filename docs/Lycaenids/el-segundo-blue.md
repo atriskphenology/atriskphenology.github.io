@@ -1,7 +1,7 @@
 ---
 title: El Segundo Blue
 id: el-segundo-blue
-sidebar_label: El Seguno Blue
+sidebar_label: El Segundo Blue
 previous_page: edwards-hairstreak
 next_page:  fenders-blue
 layout: storymap
